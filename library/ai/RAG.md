@@ -32,6 +32,7 @@
     * https://fastgpt.io/
 * [QAnything](https://github.com/netease-youdao/QAnything) - Question and Answer based on Anything.
 * [UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+* [Vespa](https://github.com/vespa-engine/vespa) - AI + Data, online.
 
 ### 文档处理
 
@@ -44,6 +45,9 @@
 * [Zerox](https://github.com/getomni-ai/zerox) - OCR & Document Extraction using vision models
 * [Surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 * [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
+* [Unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly
+* [DataChain](https://github.com/datachain-ai/datachain) - Analytics, Versioning and ETL for multimodal data: video, audio, PDFs, images
+* [Unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
 
 ### 信息提取
 
@@ -101,6 +105,22 @@
 * [Dataherald](https://github.com/Dataherald/dataherald) - Interact with your SQL database, Natural Language to SQL using LLMs
 * [DeepInsight-AI/DeepBI](https://github.com/DeepInsight-AI/DeepBI) - LLM based data scientist, AI native data application. AI-driven infinite thinking redefines BI.
 
+#### 深度搜索
+
+* [秘塔 AI 搜索](https://metaso.cn/)
+* [Perplexity](https://www.perplexity.ai/)
+* [SearXNG](https://github.com/searxng/searxng) - is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+* [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - is an AI-powered answering engine. It is an Open source alternative to Perplexity AI
+* [Morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
+* [Scira (Formerly MiniPerplx)](https://github.com/zaidmukaddam/scira) - is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. 
+* [MindSearch](https://github.com/InternLM/MindSearch) - An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
+* [Search with Lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
+
+#### 深度研究
+
+* [GPT Researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
+* [DeerFlow](https://github.com/bytedance/deer-flow) - is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
+
 ### 词嵌入
 
 * [MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard) - a Hugging Face Space by mteb
@@ -130,8 +150,23 @@
 #### ANN
 
 * [ANN-Benchmarks](https://ann-benchmarks.com/index.html) - a benchmarking environment for approximate nearest neighbor algorithms search
-* [Faiss](https://faiss.ai/) - A library for efficient similarity search and clustering of dense vectors.
 * [Hnswlib](https://github.com/nmslib/hnswlib) - fast approximate nearest neighbor search
 * [Voyager](https://github.com/spotify/voyager) - an approximate nearest-neighbor search library for Python and Java with a focus on ease of use, simplicity, and deployability.
 * [Annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 * [Puck](https://github.com/baidu/puck) - a high-performance ANN search engine
+
+### 存储和检索
+
+* [Elasticsearch](https://www.elastic.co/guide/index.html)
+* [OpenSearch](https://github.com/opensearch-project/OpenSearch) - Open source distributed and RESTful search engine.
+* [Redis](https://redis.io/)
+* [Supabase](https://supabase.com/)
+* [Milvus](https://milvus.io/) - A cloud-native vector database, storage for next generation AI applications
+* [Qdrant](https://qdrant.tech/) - High-performance, massive-scale Vector Database for the next generation of AI.
+* [Weaviate](https://weaviate.io/) - an open source, AI-native vector database that helps developers create intuitive and reliable AI-powered applications.
+* [Chroma](https://www.trychroma.com/) - Build AI applications that know, learn, and search — intelligently.
+* [Pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
+* [Pinecone](https://www.pinecone.io/) - The vector database to build knowledgeable AI
+* [Infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense embedding, sparse embedding, tensor and full-text
+* [Faiss](https://faiss.ai/) - A library for efficient similarity search and clustering of dense vectors.
+* [LanceDB](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
